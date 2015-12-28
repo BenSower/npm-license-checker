@@ -2,7 +2,8 @@
   "name": "npm-license-checker",
   "main": "./lib/npm-license-checker",
   "version": "1.1.0",
-  "description": "A npm-license checker plugin for the atom texteditor",
+  "description": "A npm-license checker plugin for the atom texteditor.",
+  "priavet": false
   "keywords": [
     "npm",
     "license",
