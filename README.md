@@ -11,3 +11,5 @@ async; 1.5.0; "MIT"
 semver; 5.1.0; "ISC"
 superagent; 1.6.1; "MIT"
 ```
+
+![Info gif](http://i.imgur.com/H2H6p3t.gif)
