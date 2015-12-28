@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle npm-license-checker'
+      'command': 'npm-license-checker:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'npm-license-checker'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'npm-license-checker:toggle'
+        }
+      ]
+    ]
+  }
+]
