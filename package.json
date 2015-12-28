@@ -2,12 +2,12 @@
   "name": "npm-license-checker",
   "main": "./lib/npm-license-checker",
   "version": "1.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "description": "A npm-license checker plugin for the atom texteditor",
+  "keywords": ["npm","license", "atom" ],
   "activationCommands": {
     "atom-workspace": "npm-license-checker:toggle"
   },
-  "repository": "https://github.com/atom/npm-license-checker",
+  "repository": "https://github.com/BenSower/npm-license-checker",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
